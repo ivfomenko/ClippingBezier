@@ -22,6 +22,11 @@ This library will generate a proper static framework bundle that can be used in 
 3. #import <PerformanceBezier/PerformanceBezier.h>
 4. #import <ClippingBezier/ClippingBezier.h>
 
+## Cocoapods
+```
+pod 'ClippingBezier', '~> 1.2'
+```
+
 ## Dependencies
 
 This library depends on the UIBezierPath performance improvements in the [PerformanceBezier](https://github.com/adamwulf/PerformanceBezier) library.
